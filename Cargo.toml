@@ -1,5 +1,5 @@
 [package]
-name = "rusty-http"
+name = "rusty_http"
 version = "0.1.0"
 authors = ["Imogen Hardy <imogen.hardy@gmail.com>"]
 edition = "2018"
